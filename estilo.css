@@ -1,7 +1,7 @@
 /* Creado por Víctor Pascual Muñoz */
 @charset "utf-8";
 body {
-    background-color: hsl(145, 50%, 35%);
+    background-color: #2D8652;
     font-family: sans-serif;
 }
 h1 {
@@ -17,15 +17,15 @@ p.nino {
     font-style: oblique;
 }
 p.pajaros {
-    color: hsl(35, 100%, 85%);
+    color: #FFDF96;
     font-family: sans-serif;
 }
 p.libro {
-    color: hsl(35, 100%, 55%);
+    color: #FF9F1A;
     font-family: monospace;
     font-size: 200%;
 }
 p.huevos {
-    color: hsl(345, 80%, 50%);
+    color: #BC2D4D;
     font-family: cursive;
 }
